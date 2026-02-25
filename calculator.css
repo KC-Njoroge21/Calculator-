@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.btn-row-container {
+  display: flex;
+ 
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.output {
+  padding: 20px;
+   border: 1px solid black;
+}
+
+.container {
+  width: 200px;
+}
